@@ -1,4 +1,4 @@
--👋 Hi, I’m @Jaytun-Kankotiya
+👋 Hi, I’m @Jaytun-Kankotiya
 - 👀 I’m interested in Devops, FUll stack and web devlopment projects. 
 - 🌱 I’m currently learning HTML, CSS, Java Script, Python, React, UI/UX, MongoDB.....
 - 💞️ I’m looking to collaborate for New Grad Full-Time Job, Canada (FrontEnd | BackEnd | FullStack Developer ), and Devops.

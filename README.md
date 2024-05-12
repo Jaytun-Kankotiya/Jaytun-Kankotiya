@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jaytun Kankotiya</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<h3 align="center">A Passionate Backend developer</h3>
 <img  align="right" alt="coding" width=="400" src=="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 

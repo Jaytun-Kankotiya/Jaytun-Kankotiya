@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Jaytun Kankotiya</h1>
 <h3 align="center">A Passionate Backend developer</h3>
-<img  align="right" alt="coding" width=="400" src=="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+<img  align="right" alt="coding" width=="400" src=="[https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif](https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaytun-kankotiya&label=Profile%20views&color=0e75b6&style=flat" alt="jaytun-kankotiya" /> </p>

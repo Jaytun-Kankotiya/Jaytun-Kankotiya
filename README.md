@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaytun-kankotiya&label=Profile%20views&color=0e75b6&style=flat" alt="jaytun-kankotiya" /> </p>
 
-- 💬 Ask me about **Python, JS, Django, API, MongoDB, PostgreSQL....**
+- 💬 Ask me about **Python, JS, Django, APIs, MongoDB, PostgreSQL, ....**
 
 - 📫 How to reach me **jaytunkankotiya81@gmail.com**
 

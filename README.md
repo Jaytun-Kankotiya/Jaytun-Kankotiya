@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jaytun Kankotiya</h1>
-<h3 align="center">A Passionate Backend developer</h3>
+<h3 align="center">A Passionate Full-Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaytun-kankotiya&label=Profile%20views&color=0e75b6&style=flat" alt="jaytun-kankotiya" /> </p>
 
-- 💬 Ask me about **JS, node.js, React.js, Django, RESTful APIs, MongoDB, PostgreSQL, database.....**
+- 💬 Ask me about **React.js, JavaScript, node.js, RESTful APIs, MongoDB, Express.js, Django, PostgreSQL, database.....**
 
 - 📫 How to reach me **jaytunkankotiya81@gmail.com**
 

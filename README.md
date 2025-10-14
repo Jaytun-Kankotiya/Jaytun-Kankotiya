@@ -1,13 +1,9 @@
-# VITE_API_BASE_URL=http://localhost:3000
-VITE_API_BASE_URL=https://workasana-backend-olive.vercel.app
-
-
 <h1 align="center">Hi 👋, I'm Jaytun Kankotiya</h1>
 <h3 align="center">A Passionate Full-Stack Developer | Building Scalable Web Applications</h3>
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 <p align="left">
-  🔭 I'm currently working on <strong>task management and collaboration tools</strong><br>
   🌱 I'm currently learning <strong>advanced React patterns, microservices architecture, and cloud-native development</strong><br>
   👯 I'm looking to collaborate on <strong>open-source projects</strong><br>
   💬 Ask me about <strong>React.js, JavaScript, Node.js, RESTful APIs, MongoDB, Express.js, Django, PostgreSQL, and cloud platforms like AWS & OCI</strong><br>
@@ -15,7 +11,9 @@ VITE_API_BASE_URL=https://workasana-backend-olive.vercel.app
   ⚡ Fun fact <strong>I debug code faster than I debug my life! 🐛</strong>
 </p>
 
-<h3 align="left">🤝 Connect with me:</h3>
+---
+
+<h3 align="left">🤝 Connect with me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/jaytun-kankotiya-06987525a/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
@@ -25,7 +23,9 @@ VITE_API_BASE_URL=https://workasana-backend-olive.vercel.app
   </a>
 </p>
 
-<h3 align="left">💻 Languages and Tools:</h3>
+---
+
+<h3 align="left">💻 Languages and Tools</h3>
 
 <h4>Frontend Development</h4>
 <p align="left">
@@ -115,12 +115,20 @@ VITE_API_BASE_URL=https://workasana-backend-olive.vercel.app
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="45" height="45"/>
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaytun-kankotiya&show_icons=true&locale=en&layout=compact" alt="jaytun-kankotiya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaytun-kankotiya&show_icons=true&locale=en" alt="jaytun-kankotiya" /></p>
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaytun-kankotiya&show_icons=true&locale=en&layout=compact" alt="jaytun-kankotiya" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaytun-kankotiya&show_icons=true&locale=en" alt="jaytun-kankotiya" />
+</p>
+
+---
 
 <h3 align="center">💼 Open for Opportunities</h3>
 <p align="center">
   I'm actively seeking opportunities in <strong>Full-Stack Development</strong> roles where I can contribute to impactful projects and continue growing as a developer.
 </p>
-

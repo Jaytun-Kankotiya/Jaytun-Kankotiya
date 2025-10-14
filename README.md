@@ -7,7 +7,7 @@
   🌱 I'm currently learning <strong>advanced React patterns, microservices architecture, and cloud-native development</strong><br>
   👯 I'm looking to collaborate on <strong>open-source projects</strong><br>
   💬 Ask me about <strong>React.js, JavaScript, Node.js, RESTful APIs, MongoDB, Express.js, Django, PostgreSQL, and cloud platforms like AWS & OCI</strong><br>
-  📫 How to reach me <strong>jaytunkankotiya81@gmail.com</strong><br>
+  📫 Feel free to reach out via email: <strong>jaytunkankotiya81@gmail.com</strong><br>
   ⚡ Fun fact <strong>I debug code faster than I debug my life! 🐛</strong>
 </p>
 

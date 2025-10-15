@@ -124,7 +124,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaytun-kankotiya&show_icons=true&locale=en&layout=compact" alt="jaytun-kankotiya" />
 </p>
 
-<p align="left">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=jaytun-kankotiya&show_icons=true&locale=en" alt="jaytun-kankotiya" />
 </p>
 

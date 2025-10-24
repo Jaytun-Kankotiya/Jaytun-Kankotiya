@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jaytun Kankotiya</h1>
+
+<h1 align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaytun-kankotiya&color=blue" alt="Profile views" />
+  Hi 👋, I'm Jaytun Kankotiya 
+</h1>
+
 <h3 align="center">A Passionate Full-Stack Developer | Building Scalable Web Applications</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">

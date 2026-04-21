@@ -1,146 +1,115 @@
-
 <h1 align="center">
   <img src="https://komarev.com/ghpvc/?username=jaytun-kankotiya&color=blue" alt="Profile views" />
-  Hi 👋, I'm Jaytun Kankotiya 
+  Hi 👋, I'm Jaytun Kankotiya
 </h1>
 
-<h3 align="center">A Passionate Full-Stack Developer | Building Scalable Web Applications</h3>
+<h3 align="center">Passionate Full-Stack Developer · Building Scalable Web Applications</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+<br/>
 
-<p align="left">
-  🌱 I'm currently learning <strong>advanced React patterns, microservices architecture, and cloud-native development</strong><br>
-  👯 I'm looking to collaborate on <strong>open-source projects</strong><br>
-  💬 Ask me about <strong>React.js, JavaScript, Node.js, RESTful APIs, MongoDB, Express.js, Django, PostgreSQL, and cloud platforms like AWS & OCI</strong><br>
-  📫 Feel free to reach out via email: <strong>jaytunkankotiya81@gmail.com</strong><br>
-  ⚡ Fun fact <strong>I debug code faster than I debug my life! 🐛</strong>
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"/>
+
+### 🚀 About Me
+
+- 🌱 Currently learning **advanced React patterns, microservices & cloud-native development**
+- 👯 Looking to collaborate on **open-source projects**
+- 💬 Ask me about **React.js, Node.js, RESTful APIs, MongoDB, PostgreSQL, Django, AWS & OCI**
+- 📫 Reach me at **jaytunkankotiya81@gmail.com**
+- ⚡ Fun fact: **I debug code faster than I debug my life! 🐛**
+
+<br/>
+
+### 🤝 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/jaytun-kankotiya-06987525a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:jaytunkankotiya81@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="left">🤝 Connect with me</h3>
-<p align="left" style="display: flex; align-items: center; gap: 0; margin: 0;">
-  <a href="https://www.linkedin.com/in/jaytun-kankotiya-06987525a/" target="_blank" style="display: inline-block; line-height: 0;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="LinkedIn" height="40" width="50" style="display: block;" />
-  </a>
-  <a href="mailto:jaytunkankotiya81@gmail.com" target="_blank" style="display: inline-block; line-height: 0;">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" 
-         alt="Email" height="40" width="50" style="display: block;" />
-  </a>
+## 💻 Tech Stack
+
+### 🖥️ Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🗄️ Database & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+### 🛠️ DevOps & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### 🎨 Design & Others
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="left">💻 Languages and Tools</h3>
-
-<h4>Frontend Development</h4>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/>
-  </a>
-</p>
-
-<h4>Backend Development</h4>
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  </a>
-</p>
-
-<h4>Database & Cloud</h4>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
-  </a>
-</p>
-
-<h4>DevOps & Tools</h4>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-  </a>
-</p>
-
-<h4>Other Tools</h4>
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="45" height="45"/>
-  </a>
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="45" height="45"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="45" height="45"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="45" height="45"/>
-  </a>
-</p>
-
----
+## 📊 GitHub Stats
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=jaytun-kankotiya&show_icons=true&locale=en&layout=compact" 
-    alt="Top Languages"
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=jaytun-kankotiya&show_icons=true&locale=en"
-    alt="GitHub Stats"
-    height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaytun-kankotiya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=jaytun-kankotiya&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="180"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaytun-kankotiya&theme=tokyonight" alt="GitHub Streak" height="180"/>
 </div>
 
 ---
 
 <h3 align="center">💼 Open for Opportunities</h3>
+
 <p align="center">
-  I'm actively seeking opportunities in <strong>Full-Stack Development</strong> roles where I can contribute to impactful projects and continue growing as a developer.
+  I'm actively seeking <strong>Full-Stack Development</strong> roles where I can contribute to impactful projects and grow as a developer.<br/>
+  <strong>Let's build something great together!</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:jaytunkankotiya81@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
